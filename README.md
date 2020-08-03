@@ -1,2 +1,2 @@
 # ai-expressions
-Class on ai expressions: definitions, operations, tools, and examples.
+Mini course on ai expressions: definitions, operations, tools, and examples.
