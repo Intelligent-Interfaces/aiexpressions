@@ -7,10 +7,10 @@ Before we start with the detailing of definitions, operations, tools, and the as
 **ai expressions** is just a playful way for the self to make art generation less scary and enjoyable. Making digital art enjoyable and less scary does several things, _which we do not claim to know the scope of consequences of such things at this current point_, but perhaps the essential thing that it does is make interfacing with computational structures for art generation closer to the soul of the animal mind. 
 
 ---
-## ai expressions for `python`
-This branch contains the translation and creation of the `ai expression` library (package) for the `python` programming language. 
+## ai expressions for [`python`](https://www.python.org/download/releases/3.0/)
+The `python` branch of the `ai-expressions` repo contains the translation and creation of the `ai expression` library (package) for the `python` programming language. 
 
-### Example 1: OpenAI
+### Example 1: [OpenAI](https://openai.com/)
 We can use `ai expressions` to describe AI systems:
 
 ```python
