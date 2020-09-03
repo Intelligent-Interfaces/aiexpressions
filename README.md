@@ -6,18 +6,6 @@ Before we start with the detailing of definitions, operations, tools, and the as
 
 **ai expressions** is just a playful way for the self to make art generation less scary and enjoyable. Making digital art enjoyable and less scary does several things, _which we do not claim to know the scope of consequences of such things at this current point_, but perhaps the essential thing that it does is make interfacing with computational structures for art generation closer to the soul of the animal mind. 
 
----
-## Chapter 01: Engines, functions, and operations
+## [`ai expressions` for `python programming language`](aie.python.md)
 
----
-## Chapter 02: Applications
-
----
-## Chapter 03: Environments
-
----
-## Chapter 04: Expressions
-
-### Semantic Syncing
-### Mass Synthesis
-### Shape Shifting
+## [`ai expression` for `R programming language`](aie.R.md)
