@@ -1,17 +1,23 @@
 # ai-expressions
-Mini-course on ai expressions: definitions, operations, tools, and examples.
+Mini-course on ai expressions: descriptions and examples.
 
-## Introduction to ai expressions (aiE)
-Before we get started with the detailing of definitions, operations, tools, and the associated theoretical and computational machinery, it is essential to set out foundations. ai expressions is just a silly way for the self to make digital art generation less scary and enjoyable. Making digital art enjoyable and less scary does several things, _which we do not claim to know the consequences of such things_, but perhaps the essential thing that it does is make interfacing with computational structures for art generation closer to the soul of the animal mind (lol). 
+## Introduction to ai expressions (aiE | AiE | AIE)
+Before we start with the detailing of definitions, operations, tools, and the associated theoretical and computational machinery, it is essential to set out foundations. In Japanese "Ai" [/ay/] means love. And so, we start with **love**, always.
 
----
-## Definitions
-
----
-## Operations
+**ai expressions** is just a playful way for the self to make art generation less scary and enjoyable. Making digital art enjoyable and less scary does several things, _which we do not claim to know the scope of consequences of such things at this current point_, but perhaps the essential thing that it does is make interfacing with computational structures for art generation closer to the soul of the animal mind. 
 
 ---
-## Tools
+## Chapter 01: Engines, functions, and operations
 
 ---
-## Examples
+## Chapter 02: Applications
+
+---
+## Chapter 03: Environments
+
+---
+## Chapter 04: Expressions
+
+### Semantic Syncing
+### Mass Synthesis
+### Shape Shifting
